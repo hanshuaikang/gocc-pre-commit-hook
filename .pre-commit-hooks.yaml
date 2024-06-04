@@ -1,0 +1,6 @@
+-   id: go-cc
+    name: 'go cc'
+    entry: run-go-cc.sh
+    files: '\.go$'
+    language: 'script'
+    description: "Runs `gocc`, requires golang"
